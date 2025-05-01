@@ -37,8 +37,19 @@ The procedure on how to install the project and run.
 
  1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weathercli.git
-   cd weathercli
+   git clone https://github.com/yourusername/*.git
+   cd *
+   ```
+---
+
+###Usage 
+
+ 1. Running the project
+   ```bash
+   npm run dev --incase is a react project etc..
+   ```
+  
+
 
  
    
