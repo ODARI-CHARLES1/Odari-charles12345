@@ -1,4 +1,4 @@
-- [Features]
+- (#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
