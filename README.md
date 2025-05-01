@@ -1,32 +1,42 @@
-#First Project 
+# First Project 
 
 This is my first repository on GitHub. It marks the beginning of my journey in learning version control and interacting with GitHub.
 The journey hasn't been easy, but with consistency and determination, I made it this far. To anyone reading this—especially those just starting out—stay determined and keep going.
 
-###Table of Content
+### Table of Content
 
 -[Features](#features)
+
 -[Installation](#features)
+
 -[Usage](#Usage)
+
 -[Configuration](#configuration)
+
 -[License](#licences)
 
 
-###Features
+### Features
 
 This includes the features that the project consists
 
    -1st Feature
+   
    -2nd Feature
+   
    -3rd Feature
+   
    -4th Feature ...etc
 
-###Installation
+### Installation
 
 The procedure on how to install the project and run.
 
    ```
-    http://github.com/username/*.git. ---------cloning the project
+    http://github.com/username/*.git.
+    cd * -------changing to the directory
+   ```
+    ```
     cd * -------changing to the directory
    ```
    ```
