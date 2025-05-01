@@ -34,12 +34,9 @@ This includes the features that the project consists
 ### Installation
 
 The procedure on how to install the project and run.
+ 1. Cloning the project.
 
     ```http://github.com/username/*.git
 
-
-    ```cd * -------changing to the directory
-
-    ```npm run dev ----incase is a react project 
  
    
