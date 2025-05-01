@@ -34,9 +34,11 @@ This includes the features that the project consists
 ### Installation
 
 The procedure on how to install the project and run.
- 1. Cloning the project.
 
-    ```http://github.com/username/*.git
+ 1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/weathercli.git
+   cd weathercli
 
  
    
