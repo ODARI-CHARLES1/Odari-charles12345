@@ -15,6 +15,7 @@ The journey hasn't been easy, but with consistency and determination, I made it 
 
 - [License](#licences)
 
+---
 
 ### Features
 
@@ -27,6 +28,8 @@ This includes the features that the project consists
    -3rd Feature
    
    -4th Feature ...etc
+
+---
 
 ### Installation
 
