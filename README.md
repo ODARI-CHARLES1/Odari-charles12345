@@ -17,7 +17,7 @@ The journey hasn't been easy, but with consistency and determination, I made it 
 
 ---
 
-- ### Features
+### Features
 
 This includes the features that the project consists
 
