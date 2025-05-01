@@ -35,13 +35,11 @@ This includes the features that the project consists
 
 The procedure on how to install the project and run.
 
-    ```
-    http://github.com/username/*.git
+    ```http://github.com/username/*.git
 
-    ```
-    cd * -------changing to the directory
 
-    ```
-    npm run dev ----incase is a react project 
+    ```cd * -------changing to the directory
+
+    ```npm run dev ----incase is a react project 
  
    
