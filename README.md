@@ -5,3 +5,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Credits](#credits)
+
+- [x] Task completed
+- [ ] Task pending
