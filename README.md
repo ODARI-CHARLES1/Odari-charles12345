@@ -21,13 +21,13 @@ The journey hasn't been easy, but with consistency and determination, I made it 
 
 This includes the features that the project consists
 
-   -1st Feature
+   - 1st Feature
    
-   -2nd Feature
+   - 2nd Feature
    
-   -3rd Feature
+   - 3rd Feature
    
-   -4th Feature ...etc
+   - 4th Feature ...etc
 
 ---
 
