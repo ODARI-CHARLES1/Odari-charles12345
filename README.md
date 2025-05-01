@@ -5,15 +5,15 @@ The journey hasn't been easy, but with consistency and determination, I made it 
 
 ### Table of Content
 
--[Features](#features)
+- [Features](#features)
 
--[Installation](#features)
+- [Installation](#features)
 
--[Usage](#Usage)
+- [Usage](#Usage)
 
--[Configuration](#configuration)
+- [Configuration](#configuration)
 
--[License](#licences)
+- [License](#licences)
 
 
 ### Features
